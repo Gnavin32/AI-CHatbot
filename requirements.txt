@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langchain-mistralai
+faiss-cpu
+unstructured
+pdfminer.six
+pillow
+dotenv
